@@ -1,0 +1,37 @@
+
+h1 {
+    color:#f7325e;
+    font-style: bold;
+    text-align: center;
+}
+.intro {
+    font-style: italic;
+    text-align: center;
+
+}
+h2 {
+
+    color: blue;
+    font-style: italic;
+}
+body {
+background-color: grey;
+}
+.tropical {
+       font-style: bold;
+}
+h3 {
+    color: blue;
+    font-style: italic;
+    
+}
+h4 { 
+    color: blue;
+    font-style: italic;
+    font-size-adjust: initial;
+    }
+    h5 {
+        color:#f7325e;
+        font-style: bold;
+        text-align: center;
+    }
